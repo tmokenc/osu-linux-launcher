@@ -12,7 +12,7 @@ After that install it by run this command
 cargo install --path .
 ```
 
-Now you can use the command `osu-linux-launcher` to launcher osu, it will check for update as well
+Now you can use the command `osu-linux-launcher` to launcher osu, it will check for update as well<br>
 You may add an alias `alias osu=osu-linux-launcher` to `~/.bashrc` to launch it with only `osu` command
 
 ## Todo
